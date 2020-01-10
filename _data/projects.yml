@@ -1,8 +1,24 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: SK Telecom - Broadband Recommendation System
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    2019.06 ~ 2019.12
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    * Python, Javascript, Angular, Flask, Mysql, Elasticsearch, Git
+- layout: top-middle
+  name: Face Recognition Entry System
+  quote: >
+    2019.01 ~ 2019.6
+  description: | # this will include new lines to allow paragraphs
+    * Python, Tensorflow, OpenCV, Arduino, Google API
+- layout: top-middle
+  name: Samsung Electronics - Chatbot Web Utility
+  quote: >
+    2018.06 ~ 2018.12
+  description: | # this will include new lines to allow paragraphs
+    * Java, Javascript, Spring, Angular, Mysql, JPA, Git, Jenkins
+- layout: top-middle
+  name: Industrial Bank Korea - Big-Data Analysis Platform
+  quote: >
+    2017.12 ~ 2018.08
+  description: | # this will include new lines to allow paragraphs
+    * Java, Javascript, Spring, Angular, Mysql, JPA, SVN, JQuery
