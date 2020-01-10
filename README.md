@@ -20,5 +20,5 @@ $ git push -u origin master
 ##### Set 5 - See it
 You should now be able to see the demo resume template using this theme at `[your-username].github.io`
 
-[View My Demo](https://sproogen.github.io/modern-resume-theme/)
+[View My Demo](https://gochemjackets.github.io/)
 
